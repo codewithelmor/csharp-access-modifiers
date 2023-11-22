@@ -53,7 +53,7 @@ public class MyDerivedClass : MyBaseClass
 
 4. **`Internal (internal)`**:
 
-Members with the **`internal`** access modifier are accessible within the same assembly but not from other assemblies.
+Members with the **`internal`** access modifier are accessible within the same **`assembly (a Project that has been compiled into a . DLL or . EXE.)`** but not from other assemblies.
 
 Example:
 
